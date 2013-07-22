@@ -1,0 +1,16 @@
+.medium-image{
+    width: 200px;
+    height: 200px;
+}
+
+#side{
+    height:300px;
+}
+
+.foot{
+    background-color: #666666;
+}
+
+.foot p{
+    color:white;
+}
